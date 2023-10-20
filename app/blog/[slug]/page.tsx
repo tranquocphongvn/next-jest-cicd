@@ -1,3 +1,7 @@
+/**
+ * @jest-environment node
+ */
+
 type Params = {
   params: {
     slug: string
